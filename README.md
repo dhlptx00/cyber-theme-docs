@@ -1,6 +1,6 @@
-# Cyber Shopify theme: documentation
+# Cyberdeck Shopify theme: documentation
 
-Public documentation and support pages for the **Cyber** Shopify theme by dhlptx00.
+Public documentation and support pages for the **Cyberdeck** Shopify theme by dhlptx00.
 
 - Documentation: https://dhlptx00.github.io/cyber-theme-docs/
 - Support: https://dhlptx00.github.io/cyber-theme-docs/support.html
